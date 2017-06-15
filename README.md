@@ -1,5 +1,5 @@
 # Feedback-and-Feedforward-inhibition-filter
-Simulate visual processing of feedback and feedforward lateral inhibition which are commonly used in biological systems for edge detection. 
+Simulate visual processing of feedback and feedforward lateral inhibition which are commonly used in biological systems for edge detection. Normally examples are shown with one-dimensional data input such as machbands. This can also be done with 2D images by converting 2D images to matrices then solving the systems of linear equations. 
 
 feedforward.m - one dimensional input and output eg. machbands
 
