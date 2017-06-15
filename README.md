@@ -7,4 +7,6 @@ TwoDimFeedForward.m - feedforward inhibition only but allows larger images
 
 TwoDimFeedForward_Smallimages.m - outputs feedforward and feedback inhibition but only allowed small images eg. 100 x 100
 
-![Settings Window](/Figure10.png)
+![](/Figure10.png)
+![](/Figure2_04.png)
+![](/Figure11.png)
