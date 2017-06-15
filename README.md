@@ -6,3 +6,5 @@ feedforward.m - one dimensional input and output eg. machbands
 TwoDimFeedForward.m - feedforward inhibition only but allows larger images
 
 TwoDimFeedForward_Smallimages.m - outputs feedforward and feedback inhibition but only allowed small images eg. 100 x 100
+
+![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
